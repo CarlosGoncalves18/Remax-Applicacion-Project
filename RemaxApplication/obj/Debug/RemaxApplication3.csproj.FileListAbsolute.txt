@@ -1,0 +1,61 @@
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\RemaxApplication3\RemaxApplication3\bin\Debug\RemaxApplication3.exe.config
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.csprojResolveAssemblyReference.cache
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.FrmClient.resources
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.Properties.Resources.resources
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.csproj.GenerateResource.Cache
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\RemaxApplication3\RemaxApplication3\bin\Debug\RemaxApplication3.exe
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\RemaxApplication3\RemaxApplication3\bin\Debug\RemaxApplication3.pdb
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\RemaxApplication3\RemaxApplication3\bin\Debug\MetroFramework.Design.dll
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\RemaxApplication3\RemaxApplication3\bin\Debug\MetroFramework.dll
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\RemaxApplication3\RemaxApplication3\bin\Debug\MetroFramework.Fonts.dll
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.exe
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.pdb
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.FrmEmployees.resources
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.FrmMain.resources
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.FrmProperties.resources
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.FrmLogin.resources
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.FrmLogin2.resources
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\RemaxApplication3\RemaxApplication3\bin\Debug\Dapper.dll
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\RemaxApplication3\RemaxApplication3\bin\Debug\Dapper.xml
+C:\Users\carlo\OneDrive\Fotos\Programming\C#\RemaxApplication3\RemaxApplication3\bin\Debug\RemaxApplication3.exe.config
+C:\Users\carlo\OneDrive\Fotos\Programming\C#\RemaxApplication3\RemaxApplication3\bin\Debug\RemaxApplication3.exe
+C:\Users\carlo\OneDrive\Fotos\Programming\C#\RemaxApplication3\RemaxApplication3\bin\Debug\RemaxApplication3.pdb
+C:\Users\carlo\OneDrive\Fotos\Programming\C#\RemaxApplication3\RemaxApplication3\bin\Debug\Dapper.dll
+C:\Users\carlo\OneDrive\Fotos\Programming\C#\RemaxApplication3\RemaxApplication3\bin\Debug\MetroFramework.Design.dll
+C:\Users\carlo\OneDrive\Fotos\Programming\C#\RemaxApplication3\RemaxApplication3\bin\Debug\MetroFramework.dll
+C:\Users\carlo\OneDrive\Fotos\Programming\C#\RemaxApplication3\RemaxApplication3\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\carlo\OneDrive\Fotos\Programming\C#\RemaxApplication3\RemaxApplication3\bin\Debug\Dapper.xml
+C:\Users\carlo\OneDrive\Fotos\Programming\C#\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.FrmClient.resources
+C:\Users\carlo\OneDrive\Fotos\Programming\C#\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.FrmEmployees.resources
+C:\Users\carlo\OneDrive\Fotos\Programming\C#\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.FrmLogin.resources
+C:\Users\carlo\OneDrive\Fotos\Programming\C#\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.FrmLogin2.resources
+C:\Users\carlo\OneDrive\Fotos\Programming\C#\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.FrmMain.resources
+C:\Users\carlo\OneDrive\Fotos\Programming\C#\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.FrmProperties.resources
+C:\Users\carlo\OneDrive\Fotos\Programming\C#\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.Properties.Resources.resources
+C:\Users\carlo\OneDrive\Fotos\Programming\C#\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.csproj.GenerateResource.Cache
+C:\Users\carlo\OneDrive\Fotos\Programming\C#\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.exe
+C:\Users\carlo\OneDrive\Fotos\Programming\C#\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.pdb
+C:\Users\carlo\OneDrive\Fotos\Programming\C#\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.csprojAssemblyReference.cache
+C:\Users\carlo\OneDrive\Fotos\Programming\C#\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Fotos\Programming\C#\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.csproj.CopyComplete
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\RemaxApplication3\RemaxApplication3\bin\Debug\RemaxApplication3.exe.config
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\RemaxApplication3\RemaxApplication3\bin\Debug\RemaxApplication3.exe
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\RemaxApplication3\RemaxApplication3\bin\Debug\RemaxApplication3.pdb
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\RemaxApplication3\RemaxApplication3\bin\Debug\Dapper.dll
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\RemaxApplication3\RemaxApplication3\bin\Debug\MetroFramework.Design.dll
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\RemaxApplication3\RemaxApplication3\bin\Debug\MetroFramework.dll
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\RemaxApplication3\RemaxApplication3\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\RemaxApplication3\RemaxApplication3\bin\Debug\Dapper.xml
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.csprojAssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.FrmClient.resources
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.FrmEmployees.resources
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.FrmLogin.resources
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.FrmLogin2.resources
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.FrmMain.resources
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.FrmProperties.resources
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.Properties.Resources.resources
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.csproj.GenerateResource.cache
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.csproj.CopyComplete
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.exe
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\RemaxApplication3\RemaxApplication3\obj\Debug\RemaxApplication3.pdb
